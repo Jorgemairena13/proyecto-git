@@ -2,3 +2,5 @@
 2.- Actualizado diario Sarosi
 3.- Tu diario
 4.-Aqui empieza el diario
+5. Hoy hemos termiando el curtso de git con sarosi 
+6. vamos a terminar el de python tambien
