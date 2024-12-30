@@ -1,6 +1,6 @@
 #Ignorar carpetas
-carpetaSecreta
+/carpetaSecreta/
 
-configuracion
+/configuracion
 
- carpetaSecreta/password
+ /carpetaSecreta/password
